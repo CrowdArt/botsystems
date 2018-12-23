@@ -1,0 +1,19 @@
+{
+  "name": "botsystems",
+  "version": "1.0.0",
+  "description": "React web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrowdArt/botsystems.git"
+  },
+  "author": "Vuk Djukic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrowdArt/botsystems/issues"
+  },
+  "homepage": "https://github.com/CrowdArt/botsystems#readme"
+}
